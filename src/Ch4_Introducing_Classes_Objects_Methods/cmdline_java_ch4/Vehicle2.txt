@@ -1,4 +1,5 @@
-class Vehicle {
+
+public class Vehicle2 {
     // instance variables
     int passengers;  // number of passengers
     int fuelcap;     // fuel capacity in gallons

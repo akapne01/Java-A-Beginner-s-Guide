@@ -1,6 +1,8 @@
+package src.C44cmdline_java_ch4.Vehicle;
+
 class VehicleDemo {
     public static void main(String[] args) {
-        Vehicle minivan2 = new Vehicle();
+        Vehicle2 minivan2 = new Vehicle2();
         int range;
 
         // assign values to the fields of minivan
