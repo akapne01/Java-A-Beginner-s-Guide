@@ -30,5 +30,13 @@ public class PowerDemo {
         System.out.println(y.b + " raised to the " + y.e + " power is " + y.get_power());
         System.out.println(z.b + " raised to the " + z.e + " power is " + z.get_power());
 
+
+        byte number = 0b0000010;
+
+        System.out.println(number);
+
+        // 00001010 = 10
+        // 00010100 = 20
+
     }
 }

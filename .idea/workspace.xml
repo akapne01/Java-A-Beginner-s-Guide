@@ -2,9 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="033391f8-9fbe-472a-92ff-2e36eb12d747" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ACopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/AssignARef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/CLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Encode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ForEach2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/LengthDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/LowLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/MinMax2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NoChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NoZeroDiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NoZeroDiv2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NotDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/QDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Ragged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShiftDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShowBitsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShowBitsOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Squares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StringArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StringOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StringSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/SubStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/TwoDimArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/UpCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/VariousArrayDeclarations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/VehicleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/VehicleDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/PowerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/PowerDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/VehicleDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/PowerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/PowerDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,150 +54,155 @@
     <session id="1000795546">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="2java" value="1" />
           <entry key="class" value="5" />
-          <entry key="java" value="32" />
+          <entry key="java" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="32" />
+          <entry key="JAVA" value="67" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="2java" value="2" />
-          <entry key="java" value="12935" />
+          <entry key="dummy" value="22" />
+          <entry key="java" value="28073" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12935" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JAVA" value="28073" />
+          <entry key="PLAIN_TEXT" value="24" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/VehicleDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/UpCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="119">
+              <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShowBitsOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
-                <element signature="e#782#783#0" expanded="true" />
-                <element signature="e#845#846#0" expanded="true" />
-                <element signature="e#1230#1231#0" expanded="true" />
-                <element signature="e#1266#1267#0" expanded="true" />
-                <element signature="e#1393#1394#0" expanded="true" />
-                <element signature="e#1429#1430#0" expanded="true" />
+                <element signature="e#0#79#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/VehicleConstructorDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/LowLetters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/PowerDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="136">
+              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding>
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#0#81#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/VehicleDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Encode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="166">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#0#77#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NotDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShiftDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="48" column="37" lean-forward="true" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShowBitsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#0#82#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NoZeroDiv.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NoZeroDiv2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/Vehicle.2java">
+        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayAverage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/ConstructorDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            <state relative-caret-position="153">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
-                <element signature="e#91#92#0" expanded="true" />
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#0#83#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/AddMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#87#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/ParameterDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#88#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/IsFactor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/TwoVehicles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -180,24 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/Help2.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakDemo.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakWhenKeyboardQ.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakWithNestedLoops.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakWithLabel.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakWithLabelAnotherExample.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakLabelPositionImportant.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakErrorNC.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/ContinueDemo.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/ContinueWithLabel.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/Help3.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/FindFactorialNestedLoops.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/FindFactorsNestedLoops.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/ReadsSentenceCountsSpaces.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/CountsBackwardsBy2.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/LoopDifferentIterationStep.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/LovercaseAndUppercase.java" />
-        <option value="$PROJECT_DIR$/src/Ch3_Program_Control_Statements/CaseChange.java" />
         <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/TwoVehicles.java" />
         <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/AddMethod.java" />
@@ -207,10 +231,48 @@
         <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/ConstructorDemo.java" />
         <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/VehicleDemo.java" />
         <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/VehicleConstructorDemo.java" />
-        <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/PowerDemo.java" />
         <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/VehicleDemo.java" />
         <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/Vehicle.2java" />
+        <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/Vehicle2.java" />
+        <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/VehicleDemo.java" />
+        <option value="$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/PowerDemo.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/MinMax.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/MinMax2.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayError.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Bubble.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/TwoDimArray.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Ragged.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Squares.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/AssignARef.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/VariousArrayDeclarations.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/LengthDemo.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ACopy.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/QDemo.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ForEach.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NoChange.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ForEach2.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Search.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StringDemo.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StringOps.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StringArrays.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/SubStr.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StringSwitch.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/CLDemo.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Phone.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/UpCase.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShowBits.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/LowLetters.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Encode.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NotDemo.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShiftDemo.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShowBitsOneValue.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShowBitsOne.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShowBitsDemo.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NoZeroDiv.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NoZeroDIv2.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NoZeroDiv2.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayAverage.java" />
       </list>
     </option>
   </component>
@@ -221,7 +283,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="929" />
+    <option name="x" value="529" />
+    <option name="y" value="524" />
     <option name="width" value="1000" />
     <option name="height" value="1047" />
   </component>
@@ -232,6 +295,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,33 +317,26 @@
               <item name="Java-Beginners-Guide" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Beginners-Guide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch3_Program_Control_Statements" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch5_More_Data_Types_And_Operators" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Beginners-Guide" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Beginners-Guide" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch4_Introducing_Classes_Objects_Methods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Beginners-Guide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Beginners-Guide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch4_Introducing_Classes_Objects_Methods" type="462c0819:PsiDirectoryNode" />
-              <item name="cmdline_java_ch4" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch5_More_Data_Types_And_Operators" type="462c0819:PsiDirectoryNode" />
+              <item name="ShowBitsDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556219718285" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556820626876" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -296,13 +353,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PowerDemo">
-    <configuration name="ConstructorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch4_Introducing_Classes_Objects_Methods.ConstructorDemo" />
+  <component name="RunManager" selected="Application.ArrayAverage">
+    <configuration name="ArrayAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch5_More_Data_Types_And_Operators.ArrayAverage" />
       <module name="Java-Beginners-Guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch4_Introducing_Classes_Objects_Methods.*" />
+          <option name="PATTERN" value="Ch5_More_Data_Types_And_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +367,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch4_Introducing_Classes_Objects_Methods.IsFactor" />
+    <configuration name="NoZeroDiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch5_More_Data_Types_And_Operators.NoZeroDiv" />
       <module name="Java-Beginners-Guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch4_Introducing_Classes_Objects_Methods.*" />
+          <option name="PATTERN" value="Ch5_More_Data_Types_And_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,12 +380,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch4_Introducing_Classes_Objects_Methods.PowerDemo" />
+    <configuration name="NoZeroDiv2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch5_More_Data_Types_And_Operators.NoZeroDiv2" />
       <module name="Java-Beginners-Guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch4_Introducing_Classes_Objects_Methods.*" />
+          <option name="PATTERN" value="Ch5_More_Data_Types_And_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,12 +393,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleConstructorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch4_Introducing_Classes_Objects_Methods.VehicleConstructorDemo" />
+    <configuration name="ShiftDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch5_More_Data_Types_And_Operators.ShiftDemo" />
       <module name="Java-Beginners-Guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch4_Introducing_Classes_Objects_Methods.*" />
+          <option name="PATTERN" value="Ch5_More_Data_Types_And_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,12 +406,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch4_Introducing_Classes_Objects_Methods.VehicleDemo" />
+    <configuration name="ShowBitsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch5_More_Data_Types_And_Operators.ShowBitsDemo" />
       <module name="Java-Beginners-Guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch4_Introducing_Classes_Objects_Methods.*" />
+          <option name="PATTERN" value="Ch5_More_Data_Types_And_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,19 +420,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.VehicleDemo" />
-      <item itemvalue="Application.IsFactor" />
-      <item itemvalue="Application.ConstructorDemo" />
-      <item itemvalue="Application.VehicleConstructorDemo" />
-      <item itemvalue="Application.PowerDemo" />
+      <item itemvalue="Application.ShiftDemo" />
+      <item itemvalue="Application.ShowBitsDemo" />
+      <item itemvalue="Application.NoZeroDiv" />
+      <item itemvalue="Application.NoZeroDiv2" />
+      <item itemvalue="Application.ArrayAverage" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PowerDemo" />
-        <item itemvalue="Application.VehicleConstructorDemo" />
-        <item itemvalue="Application.VehicleDemo" />
-        <item itemvalue="Application.ConstructorDemo" />
-        <item itemvalue="Application.IsFactor" />
+        <item itemvalue="Application.ArrayAverage" />
+        <item itemvalue="Application.NoZeroDiv2" />
+        <item itemvalue="Application.NoZeroDiv" />
+        <item itemvalue="Application.ShowBitsDemo" />
+        <item itemvalue="Application.ShiftDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -389,12 +446,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556187796757</updated>
-      <workItem from="1556187802056" duration="27688000" />
+      <workItem from="1556187802056" duration="29189000" />
+      <workItem from="1556720663104" duration="28650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27688000" />
+    <option name="totallyTimeSpent" value="57839000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,34 +467,34 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12526652" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20522387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32925472" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32925472" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36484984" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36484984" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32925472" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3259177" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -476,160 +534,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakWhenKeyboardQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="76" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakWithNestedLoops.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#88#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakWithLabel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakWithLabelAnotherExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#96#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakLabelPositionImportant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#95#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/BreakErrorNC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/ContinueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/ContinueWithLabel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#85#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/Help3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/FindFactorsNestedLoops.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#92#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/CountsBackwardsBy2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#85#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/LoopDifferentIterationStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#95#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/ReadsSentenceCountsSpaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#93#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/LovercaseAndUppercase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/CaseChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch3_Program_Control_Statements/Help2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -637,49 +541,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/Vehicle.java" />
     <entry file="file://$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/VehicleDemo.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#549#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/Vehicle.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/TwoVehicles.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/Vehicle.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/Vehicle.java" />
+    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/Vehicle.2java" />
+    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/Vehicle2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/VehicleDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/VehicleDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/ConstructorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/AddMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="306">
           <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#87#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/ParameterDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="357">
           <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#88#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -690,16 +598,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/ConstructorDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/TwoVehicles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/MinMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/MinMax2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -710,57 +626,305 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/Vehicle.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/PowerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/VehicleDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="39" column="10" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
           <folding>
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#1230#1231#0" expanded="true" />
-            <element signature="e#1266#1267#0" expanded="true" />
-            <element signature="e#1393#1394#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#0#76#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/VehicleDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/TwoDimArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#81#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch4_Introducing_Classes_Objects_Methods/cmdline_java_ch4/Vehicle.2java">
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Ragged.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Squares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/AssignARef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="89" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/VariousArrayDeclarations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/LengthDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ACopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/QDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="48" selection-start-line="89" selection-start-column="48" selection-end-line="89" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ForEach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NoChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ForEach2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StringDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StringOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StringArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/SubStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StringSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/CLDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/UpCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/LowLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Encode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NotDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShiftDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="48" column="37" lean-forward="true" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShowBitsOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ShowBitsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#82#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NoZeroDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/NoZeroDiv2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#83#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
