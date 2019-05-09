@@ -17,5 +17,8 @@ public class ArrayAverage {
         for (double d : arr) sum += d;
         average = sum / arr.length;
         System.out.println("Average value is: " + average);
+        byte a = 0b00000011;
+        System.out.println(-a>>>-1);
+        System.out.println(a>>>1);
     }
 }
