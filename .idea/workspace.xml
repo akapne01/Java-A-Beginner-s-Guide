@@ -2,102 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4920c32-09ac-4eec-9683-e95b5205038e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch7_Inheritance/ShapesDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/BreakDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/BreakErrorNC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/BreakLabelPositionImportant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/BreakWhenKeyboardQ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/BreakWithLabel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/BreakWithLabelAnotherExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/BreakWithNestedLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/CaseChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/ContinueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/ContinueWithLabel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/CountsBackwardsBy2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/FindFactorsNestedLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/Help2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/Help3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/LoopDifferentIterationStep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/LovercaseAndUppercase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch3_Program_Control_Statements/ReadsSentenceCountsSpaces.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/AddMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/CheckNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/ConstructorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/Factor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/IsFactor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/ParameterDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/Power.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/PowerDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/TwoVehicles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/VehicleConstructorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch4_Introducing_Classes_Objects_Methods/VehicleDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/ACopy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/ArrayAverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/ArrayDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/ArrayError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/AssignARef.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/Bubble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/BubbleArraySort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/BubbleArraySortDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/CLDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/Encode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/EncodeSelfTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/ForEach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/ForEach2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/LengthDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/LowLetters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/MinMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/MinMax2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/MinMaxSelfTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/NoChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/NoZeroDiv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/NoZeroDiv2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/NotDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/QDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/Ragged.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/ShiftDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/ShowBits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/ShowBitsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/ShowBitsOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/Squares.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/StrBubble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/StringArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/StringDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/StringOps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/StringSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/SubStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/TwoDimArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/UpCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch5_More_Data_Types_And_Operators/VariousArrayDeclarations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/LocalClassDemo$1ShowBits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/LocalClassDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/NestedClassDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/Outer$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/QDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/Queue2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/QuickSortDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/Recursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/SDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/StaticBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/StaticBlockDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/StaticDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/StaticDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/StaticMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/VarArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/VarArgs2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/VarArgs3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Beginners-Guide/Ch6_Methods_Classes_Closer_Look/VarArgs4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch6_Methods_Classes_Closer_Look/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6_Methods_Classes_Closer_Look/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch7_Inheritance/Shapes2GetSet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,131 +19,51 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="510" />
+          <entry key="java" value="1407" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="510" />
+          <entry key="JAVA" value="1407" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/EncodeSelfTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Bubble.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#1217#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/BubbleArraySortDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="80" column="43" lean-forward="true" selection-start-line="80" selection-start-column="43" selection-end-line="80" selection-end-column="43" />
-              <folding>
-                <element signature="e#673#674#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch7_Inheritance/ShapesDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#64#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch6_Methods_Classes_Closer_Look/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch7_Inheritance/Shapes2GetSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayAverage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/MinMax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/MinMax2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/MinMaxSelfTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StrBubble.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+            <state relative-caret-position="359">
+              <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#151#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -275,8 +100,10 @@
         <option value="$PROJECT_DIR$/src/Ch_6_Methods_Classes_Closer_Look/ConstructorOverloadDemo.java" />
         <option value="$PROJECT_DIR$/src/Ch_6_Methods_Classes_Closer_Look/SumDemo.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/Ch7_Inheritance/ShapesDemo.java" />
         <option value="$PROJECT_DIR$/src/Ch6_Methods_Classes_Closer_Look/Test.java" />
+        <option value="$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayAverage.java" />
+        <option value="$PROJECT_DIR$/src/Ch7_Inheritance/ShapesDemo.java" />
+        <option value="$PROJECT_DIR$/src/Ch7_Inheritance/Shapes2GetSet.java" />
       </list>
     </option>
   </component>
@@ -329,18 +156,6 @@
               <item name="Java_Beginners_Guide_Book" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="Java-Beginners-Guide" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Java_Beginners_Guide_Book" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Ch5_More_Data_Types_And_Operators" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Java-Beginners-Guide" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Java_Beginners_Guide_Book" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Ch6_Methods_Classes_Closer_Look" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -350,7 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558003814883" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558004865312" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -368,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShapesDemo">
+  <component name="RunManager" selected="Application.Shapes2GetSet">
     <configuration name="ConstructorOverloadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch_6_Methods_Classes_Closer_Look.ConstructorOverloadDemo" />
       <module name="Java_Beginners_Guide_Book" />
@@ -382,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverloadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch_6_Methods_Classes_Closer_Look.OverloadDemo" />
+    <configuration name="Shapes2GetSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch7_Inheritance.Shapes2GetSet" />
       <module name="Java_Beginners_Guide_Book" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch_6_Methods_Classes_Closer_Look.*" />
+          <option name="PATTERN" value="Ch7_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -436,18 +251,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ConstructorOverloadDemo" />
-      <item itemvalue="Application.OverloadDemo" />
       <item itemvalue="Application.SumDemo" />
       <item itemvalue="Application.TypeConv" />
       <item itemvalue="Application.ShapesDemo" />
+      <item itemvalue="Application.Shapes2GetSet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shapes2GetSet" />
         <item itemvalue="Application.ShapesDemo" />
         <item itemvalue="Application.SumDemo" />
         <item itemvalue="Application.ConstructorOverloadDemo" />
         <item itemvalue="Application.TypeConv" />
-        <item itemvalue="Application.OverloadDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -465,7 +280,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1097000" />
+    <option name="totallyTimeSpent" value="2252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -480,12 +295,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27439886" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33926585" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.58564436" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22580644" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32925472" />
@@ -566,6 +381,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/EncodeSelfTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#1217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/BubbleArraySortDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -579,10 +411,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch7_Inheritance/ShapesDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
           <folding>
-            <element signature="e#0#64#0" expanded="true" />
             <element signature="e#187#188#0" expanded="true" />
             <element signature="e#273#274#0" expanded="true" />
             <element signature="e#354#355#0" expanded="true" />
@@ -595,8 +426,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch6_Methods_Classes_Closer_Look/Test.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/ArrayAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/MinMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/MinMax2.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <caret line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/MinMaxSelfTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch5_More_Data_Types_And_Operators/StrBubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch7_Inheritance/Shapes2GetSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#151#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
