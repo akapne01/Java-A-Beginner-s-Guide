@@ -8,6 +8,7 @@ class TwoDShape2 {
     private double width;
     private double height;
 
+
     // accessor methods for width and height
     // getters
     double getWidth() {
@@ -30,6 +31,7 @@ class TwoDShape2 {
     void showDim() {
         System.out.println("Width and height are " + width + " and " + height);
     }
+
 }
 
 
