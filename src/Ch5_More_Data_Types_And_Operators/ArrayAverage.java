@@ -5,7 +5,10 @@
 
  */
 
+
 package Ch5_More_Data_Types_And_Operators;
+
+import Ch6_Methods_Classes_Closer_Look.Test;
 
 public class ArrayAverage {
     public static void main(String[] args) {
@@ -18,7 +21,7 @@ public class ArrayAverage {
         average = sum / arr.length;
         System.out.println("Average value is: " + average);
         byte a = 0b00000011;
-        System.out.println(-a>>>-1);
-        System.out.println(a>>>1);
+        System.out.println(-a>>1);
+        System.out.println(-a>>>1);
     }
 }
