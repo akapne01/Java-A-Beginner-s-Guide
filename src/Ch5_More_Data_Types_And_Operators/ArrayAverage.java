@@ -8,9 +8,7 @@
 
 package Ch5_More_Data_Types_And_Operators;
 
-import Ch6_Methods_Classes_Closer_Look.Test;
-
-public class ArrayAverage {
+ public class ArrayAverage {
     public static void main(String[] args) {
         // init array
         double arr[] = {0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0};

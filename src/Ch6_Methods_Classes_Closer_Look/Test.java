@@ -2,12 +2,12 @@
 package Ch6_Methods_Classes_Closer_Look;
 
 
-public class Test {
+class TestPi {
 
-    //public static double pi = 3.14;
-    double pi;
+    public static double pi = 3.14;
+    // double pi;
 
-    Test() {
+    TestPi() {
         double pi = 9.0;
         this.pi = pi;
         System.out.println(pi);
@@ -22,7 +22,7 @@ public class Test {
 
 
     public static void main(String[] args) {
-        Test test = new Test();
+        TestPi test = new TestPi();
         test.printPi();
     }
 
