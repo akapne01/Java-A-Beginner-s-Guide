@@ -3,7 +3,7 @@
     An improved queue class for characters using access modifiers
     Try This 6-1
  */
-package Ch_6_Methods_Classes_Closer_Look;
+package Ch6_Methods_Classes_Closer_Look;
 
 class Queue {
     // these members are not private

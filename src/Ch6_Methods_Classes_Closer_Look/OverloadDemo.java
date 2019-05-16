@@ -3,7 +3,7 @@
     Method overloading
  */
 
-package Ch_6_Methods_Classes_Closer_Look;
+package Ch6_Methods_Classes_Closer_Look;
 
 class Overload {
     void ovlDemo() { // 1st version

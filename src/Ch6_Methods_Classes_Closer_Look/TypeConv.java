@@ -11,7 +11,7 @@
         Inside f(double): 11.5
  */
 
-package Ch_6_Methods_Classes_Closer_Look;
+package Ch6_Methods_Classes_Closer_Look;
 
 class Overload2 {
     void f(int x) {

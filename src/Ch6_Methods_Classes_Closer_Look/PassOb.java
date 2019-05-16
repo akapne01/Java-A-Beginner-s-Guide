@@ -2,7 +2,7 @@
     Objects can be passed to methods
     p. 191
  */
-package Ch_6_Methods_Classes_Closer_Look;
+package Ch6_Methods_Classes_Closer_Look;
 
 class Block {
     int a, b, c, volume;

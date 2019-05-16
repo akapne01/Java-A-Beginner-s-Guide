@@ -6,7 +6,7 @@
     ab.a and ob.b before call: 15 20
     ab.a and ob.b after call: 35 -20
  */
-package Ch_6_Methods_Classes_Closer_Look;
+package Ch6_Methods_Classes_Closer_Look;
 
 class Test2 {
     int a, b;

@@ -13,7 +13,7 @@
         t4.x: 8
  */
 
-package Ch_6_Methods_Classes_Closer_Look;
+package Ch6_Methods_Classes_Closer_Look;
 
 class ConstructorOverload {
     int x;

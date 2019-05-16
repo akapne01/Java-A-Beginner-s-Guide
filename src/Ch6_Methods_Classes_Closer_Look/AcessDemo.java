@@ -1,7 +1,7 @@
 /*
 p. 187 public vs private access
  */
-package Ch_6_Methods_Classes_Closer_Look;
+package Ch6_Methods_Classes_Closer_Look;
 
 class MyClass {
 
