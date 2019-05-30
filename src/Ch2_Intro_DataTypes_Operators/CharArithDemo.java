@@ -8,7 +8,7 @@ class CharArithDemo {
     char ch;
 
     ch = 'X';
-    System.out.println("ch containes " + ch);
+    System.out.println("ch contains " + ch);
 
     ch++; // can be incremented
     System.out.println("ch is now " + ch);
