@@ -1,0 +1,5 @@
+Hi, this is a file and you are reading it.
+Created as a demo for a Chapter 10 Java input and output stream and reading files.
+I hope you enjoy it.
+This is the end of this particular file.
+Bye!
