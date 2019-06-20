@@ -1,0 +1,2 @@
+Hi, I am testing a FileWriter to see how it works.
+Will see if this is written to the file and if yes, how it looks. 

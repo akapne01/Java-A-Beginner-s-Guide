@@ -1,0 +1,14 @@
+#read
+This is a help about read
+
+#write
+This is help about write
+
+#input
+Standard input
+
+#output
+Standard output
+
+#error
+Standard error
