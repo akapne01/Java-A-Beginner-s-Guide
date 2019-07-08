@@ -5,7 +5,7 @@ package Ch11_Multithreaded_Programming;
  * Create a thread by implementing Runnable
  */
 
-import org.jetbrains.annotations.Contract;
+// import org.jetbrains.annotations.Contract;
 
 /**
  * MyThread objects can be run in their own threads,
