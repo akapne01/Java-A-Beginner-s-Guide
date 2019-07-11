@@ -29,7 +29,12 @@ class Foo2 {
     }
 
     public static void main(String[] args) {
-        new Foo2().setSize(26);
+
+        new Foo2() .setSize(26);
+
+        for (int i = 0; i < args.length; i++) {
+            System.out.println(args[i]);
+        }
     }
 
 }
