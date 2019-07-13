@@ -5,9 +5,8 @@ import java.io.Serializable;
 /**
  * Class can be abstract and not have any abstract methods
  */
-public abstract class LegalClass {
+abstract public class LegalClass {
     void goodMethod() {
         // lots of real implementation code here
     }
 }
-
