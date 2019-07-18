@@ -1,4 +1,4 @@
-package OCA_Programmer_Exam_Guide.Ch_2_Object_orientation;
+package OCA_Programmer_Exam_Guide.Ch2_Object_orientation;
 
 import OCA_Programmer_Exam_Guide.Ch1_Declarations_and_Access_Control.Bounceable;
 

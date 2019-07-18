@@ -1,6 +1,4 @@
-package OCA_Programmer_Exam_Guide.Ch_2_Object_orientation;
-
-import java.util.HashSet;
+package OCA_Programmer_Exam_Guide.Ch2_Object_orientation;
 
 class Bird {
    {

@@ -1,4 +1,4 @@
-package OCA_Programmer_Exam_Guide.Ch_2_Object_orientation;
+package OCA_Programmer_Exam_Guide.Ch2_Object_orientation;
 
 interface MyInterface {
    default int doStuff() {
