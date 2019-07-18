@@ -4,6 +4,7 @@ package Java_Complete_Reference.Colections_Framework_ch_19;
 import java.util.HashSet;
 
 public class HashSetDemo {
+
    public static void main(String[] args) {
 
       // Create a HashSet
