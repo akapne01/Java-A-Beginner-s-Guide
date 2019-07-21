@@ -2,8 +2,6 @@ package OCA_Programmer_Exam_Guide.Ch4_Operators;
 
 // p. 241
 
-import java.util.Collection;
-
 public class EnumEqual {
 
     enum Color {RED, BLUE}
@@ -20,5 +18,6 @@ public class EnumEqual {
         if (c1.equals(c2)) {
             System.out.println("dot equals");
         }
+
     }
 }
