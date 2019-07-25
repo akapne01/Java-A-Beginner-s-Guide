@@ -2,7 +2,6 @@ package OCA_Programmer_Exam_Guide.Ch3_Assignments;
 
 // p. 199
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
