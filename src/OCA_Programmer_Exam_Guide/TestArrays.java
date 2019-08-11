@@ -7,6 +7,7 @@ public class TestArrays {
 
     static int i = 5;
     int j = 7;
+
     public static void main(String[] args) {
         int[] [] a = {{1,2}, {2,3}};
         int[] b = (int[]) a[1];
@@ -18,6 +19,9 @@ public class TestArrays {
         arr.add(1, "c");
 
         DateTimeFormatter f;
+        final String str;
+        str = "9";
+        System.out.println(str);
 
 
     }
