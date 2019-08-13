@@ -1,6 +1,5 @@
 package practice_tests.ch3_operators_decision_contructs;
 
-import Ch6_Methods_Classes_Closer_Look.LocalClassDemo;
 
 /**
  * p. 41 3-28
