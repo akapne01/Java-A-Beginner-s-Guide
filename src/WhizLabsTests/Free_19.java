@@ -20,6 +20,8 @@ public class Free_19 {
       System.out.println(sb);
       int []a = {0123};
       int []b = new int[0b101];
+      int yyy = 013;
+      System.out.println("013= " + yyy);
 
       System.out.println(i);
 
