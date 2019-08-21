@@ -15,6 +15,11 @@ import java.util.function.Predicate;
 public class DateTimeFormatterDemo {
    public static void main(String[] args) {
 
+      int ii = 1234567890;
+
+      StringBuilder sb = new StringBuilder("heisaa");
+      sb.replace(1, 2, "H");
+
       LocalDate curDate = LocalDate.now();
       System.out.println(curDate.format(DateTimeFormatter.ofLocalizedDate(FormatStyle.FULL)));
 
@@ -34,4 +39,10 @@ public class DateTimeFormatterDemo {
       Period p = Period.of(1, 2, 3);
       DateTimeFormatter.ofLocalizedDateTime(FormatStyle.SHORT);
    }
+
+   interface A {}
+   interface B {}
+//   interface C implements A, B {
+
+//   }
 }
